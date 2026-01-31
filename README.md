@@ -51,7 +51,7 @@
 
 ```bash
 # 克隆项目
-git clone <repository-url>
+git clone https://github.com/v1zone/md-image-localizer
 cd md-image-localizer
 
 # 安装依赖
